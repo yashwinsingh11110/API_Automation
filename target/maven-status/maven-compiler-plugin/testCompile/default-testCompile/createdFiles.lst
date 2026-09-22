@@ -1,0 +1,13 @@
+requests\GettingUserReq.class
+requests\CreatingUserReq.class
+requests\DeletingUserReq.class
+stepDefinitions\DeleteUser.class
+stepDefinitions\UpdateWithPatch.class
+stepDefinitions\UpdateWithPut.class
+context\ApiContext.class
+requests\UpdatingWithPutReq.class
+stepDefinitions\GettingUser.class
+requests\UpdatingWithPatchReq.class
+stepDefinitions\CreatingUser.class
+runner\ApiRunner.class
+hooks\Hook.class
